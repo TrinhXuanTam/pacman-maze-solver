@@ -1,0 +1,16 @@
+@import "colors";
+
+html, body, #root {
+  height: 100%;
+  color: $font-color-primary;
+  background-color: $background-color;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+  font-family: 'emulogic', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: $font-color-primary;
+}

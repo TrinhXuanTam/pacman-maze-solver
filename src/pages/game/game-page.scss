@@ -1,0 +1,15 @@
+#game-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1vh;
+}
+
+#game-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1vh;
+}
+
+.action-text {
+  cursor: pointer;
+}

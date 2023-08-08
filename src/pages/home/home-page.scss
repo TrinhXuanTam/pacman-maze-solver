@@ -1,0 +1,18 @@
+@import "../../css/fonts";
+@import "../../css/colors";
+
+#pacman-banner {
+  width: 30vw;
+}
+
+#game-menu {
+  text-align: center;
+}
+
+.menu-options .menu-option:not(:last-child) {
+  margin-bottom: 3vh;
+}
+
+.menu-option {
+  display: block;
+}
